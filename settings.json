@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "islamic_state.aternos.me",
+    "port": 64417,
+    "version": "1.19.1",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Sir t7wa !",
+        "9wdtoha 3ndkom l jihawi !",
+        "Rani ghir Ai a w9"
       ]
     },
     "chat-log": true,
